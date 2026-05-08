@@ -5,8 +5,12 @@ Automação desktop desenvolvida em Python para extração de comentários de re
 ---
 
 ## Preview
+<img width="1376" height="881" alt="print" src="https://github.com/user-attachments/assets/7fbf76d5-afa8-4425-83a9-a4060d0f5167" />
+<img width="1376" height="854" alt="print 2" src="https://github.com/user-attachments/assets/c63acb74-0e88-48c5-ba89-c850c5f75f6d" />
+<img width="1339" height="814" alt="print 3" src="https://github.com/user-attachments/assets/29e63d30-be6a-40b3-b176-1105cd4672ec" />
+<img width="1356" height="883" alt="print 4" src="https://github.com/user-attachments/assets/3ad80837-d205-48bf-911d-6137bbf68ba0" />
 
-Adicione prints do sistema aqui.
+
 
 
 
